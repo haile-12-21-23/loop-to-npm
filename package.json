@@ -1,6 +1,6 @@
 {
-  "name": "loop-to-npm",
-  "version": "1.0.0",
+  "name": "basic-calculator",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/haile-12-21-23/loop-to-npm.git"
   },
+  "type": "module",
   "author": "",
   "license": "ISC",
   "bugs": {
